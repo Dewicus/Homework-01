@@ -1,0 +1,11 @@
+Cameron Dewey
+Team: Cleaning crew
+
+	The cleaning crew has a very straight forward idea in creating an app that assists with the tasks of the physical plant by 
+creating a possibly better system than the paper house keeping logs that are currently used. They also wish to automate many 
+processes such as time away from work requests and create a better communication method between people of the workplace. 
+Personally as a crew lead of the cleaning crew in the fieldhouse I really like this idea and would like to see how it comes 
+together. I think this is a unique idea that is deserving of some attention and could be useful if implemented properly. 
+
+	From my perusing of their code on github they so far seem to have only a little bit of code and not quite worked much 
+towards coding yet. 
