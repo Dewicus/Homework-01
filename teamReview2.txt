@@ -1,0 +1,17 @@
+Cameron Dewey 
+Team Fly
+
+Does their Trello board show the appropriate amount of activity?
+
+Their Trello board looks to show a decent amount of activity by the members.
+
+Write a one-to-two-paragraph review of their models. Are their user stories, class model and UI model well-formulated? Do they describe a coherent system?
+
+I was able to find their user stories on Trello and they seemed to be fairly sound overall and well formatted. Their domain model was well formatted and 
+seemed to go over everything. Their UI model overall looks easy enough to move through also and seems sound also. Overall I have no real complaints on the 
+system besides maybe repositioning the time off requests.
+
+Has there been an appropriate amount of code pushed into their client repo? Can you run the prototype? If so, does the application make sense to you?
+Does their supplemental specification address non-functional requirements? Are they missing anything important?
+
+It seems they have pushed a decent amount of code that does have a settings menu implemented.
